@@ -1,0 +1,17 @@
+<h4> {
+  text-align: center;
+  font-style: oblique;
+  color: blue;
+}
+.means {
+  font-style: italic;
+  color: green;
+}
+p.time {
+  font-style: bold;
+  color: red;
+}
+p.use{
+  font-style: normal;
+
+}
